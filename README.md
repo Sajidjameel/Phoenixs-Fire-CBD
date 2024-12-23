@@ -6,7 +6,7 @@ Phoenix Fire CBD is an e-commerce platform offering high-quality CBD balms and g
 
 ## 🌿 Project Overview
 
-**Phoenix Fire CBD** is a modern eCommerce platform built on the **BigCommerce** platform, specializing in high-quality CBD balms, gummies, and oils. The platform is designed to offer a seamless shopping experience with easy navigation, responsive design, and secure checkout. The site is fully optimized for mobile devices, ensuring users can conveniently shop for wellness products across all platforms.
+**Phoenix Fire CBD** is a modern eCommerce platform built on the **BigCommerce** platform, specializing in high-quality CBD balms, gummies and oils. The platform is designed to offer a seamless shopping experience with easy navigation, responsive design, and secure checkout. The site is fully optimized for mobile devices, ensuring users can conveniently shop for wellness products across all platforms.
 
 This project showcases my ability to create feature-rich, user-friendly eCommerce websites. From advanced product filtering to secure payment integrations, Phoenix Fire CBD offers a smooth and efficient experience for customers looking to improve their health and wellness with premium CBD products.
 
